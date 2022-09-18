@@ -27,13 +27,13 @@ On analyzing the data, I then put the key visuals which were relevant and sounds
 During the making of this dashboard, I applied several DAX measures like CALCULATE, AVERAGE, SUM, etc to come up with numerical insights which are insightful to the end
 user.
 
-## Visualization in Power BI:
+# Visualization in Power BI:
 
-# Theme and color palette:
+## Theme and color palette:
 * I went with the light theme here for this dashboard.
 * Colors chosen: Light Blue, Red, Brown and Green.
 
-# Visualization:
+## Visualization:
 
 Here, I used Figma to create 720*1280px and it is a 5-paged dashboard. Here, I used Horizontal rectangular navigation panes at the top.
 
