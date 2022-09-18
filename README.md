@@ -12,12 +12,16 @@ websites used and financial inclusion and digital advertising market.
 Requirements and about the challenge:
 ![about the challenge ](https://user-images.githubusercontent.com/72240938/190921760-18902839-c457-44e2-8771-705e06d24dcf.png)
 
+#Tools Used: Power BI, Figma, Logomakr.com
+
 After loading dataset in Power BI, we will apply the following operations:
+
 
 ## Understanding of Data:
 
-I decided to split the report in 5 pages where the KPIs on which the focus was "Traffic Share by Device and Gender" , "Top Websites with respect to visits made by Internet
-Users", "Digital Advertising factors and Social Media", "Top Device & Social Media Used".
+I decided to split the report in 5 pages where the KPIs on which the focus was "Traffic Share by Device and Gender" , "Top Websites with respect to visits made by Internet Users", "Digital Advertising factors and Social Media", "Top Devices & Social Media Used".
+On analyzing the data, I then put the key visuals which were relevant and sounds insightful to the user to get a picture of the data.
+
 
 ## Application of DAX measures :
 During the making of this dashboard, I applied several DAX measures like CALCULATE, AVERAGE, SUM, etc to come up with numerical insights which are insightful to the end
@@ -33,7 +37,7 @@ user.
 
 Here, I used Figma to create 720*1280px and it is a 5-paged dashboard. Here, I used Horizontal rectangular navigation panes at the top.
 
-Conclusion:
+# Conclusion:
 Overall, it was a good dataset to visualize with the Digitalisation niche.
 
 # [Dashboard](https://lnkd.in/ddVSsW-D)
