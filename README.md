@@ -12,7 +12,7 @@ websites used and financial inclusion and digital advertising market.
 Requirements and about the challenge:
 ![about the challenge ](https://user-images.githubusercontent.com/72240938/190921760-18902839-c457-44e2-8771-705e06d24dcf.png)
 
-#Tools Used: Power BI, Figma, Logomakr.com
+# Tools Used: Power BI, Figma, Logomakr.com
 
 After loading dataset in Power BI, we will apply the following operations:
 
