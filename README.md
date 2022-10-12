@@ -1,4 +1,5 @@
-## Digitalisation Challenge in Romania
+# Digitalisation Challenge in Romania
+## [Dashboard](https://lnkd.in/dtKbnAQn)
 
 ![the-ultimate-guide-to-digital-marketing-61726311bf393-sej-760x400](https://user-images.githubusercontent.com/72240938/190921530-11054c39-ca41-4c13-b171-9a04bfa0c9a9.png)
 
@@ -40,7 +41,7 @@ Here, I used Figma to create 720*1280px and it is a 5-paged dashboard. Here, I u
 # Conclusion:
 Overall, it was a good dataset to visualize with the Digitalisation niche.
 
-# [Dashboard](https://lnkd.in/dtKbnAQn)
+
 
 
 
